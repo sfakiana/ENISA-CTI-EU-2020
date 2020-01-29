@@ -17,3 +17,5 @@ This repository includes the references and resources for the presentation "Tech
 13. S. Brown, J. Gommers and O. Serrano, - From Cyber Security Information Sharing to Threat Management - https://dl.acm.org/doi/abs/10.1145/2808128.2808133
 14. S. Caltagirone,  Threat Intelligence Definition: What is Old is New Again - http://www.activeresponse.org/threat-intelligence-definition-old-new/
 15. Adam Zibak and Andrew Simpson - Cyber Threat Information Sharing: Perceived Benefits and Barriers - https://www.researchgate.net/publication/335084010_Cyber_Threat_Information_Sharing_Perceived_Benefits_and_Barriers
+16. Lockheed Martin - Practical Steps To Securing Process Control Networks - https://docplayer.net/9025143-Practical-steps-to-securing-process-control-networks.html
+17. FireEye - Excelerating Analysis – Tips and Tricks to Analyze Data with Microsoft Excel - https://www.fireeye.com/blog/threat-research/2019/12/tips-and-tricks-to-analyze-data-with-microsoft-excel.html
