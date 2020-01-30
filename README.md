@@ -19,3 +19,4 @@ This repository includes the references and resources for the presentation "Tech
 15. Adam Zibak and Andrew Simpson - Cyber Threat Information Sharing: Perceived Benefits and Barriers - https://www.researchgate.net/publication/335084010_Cyber_Threat_Information_Sharing_Perceived_Benefits_and_Barriers
 16. Lockheed Martin - Practical Steps To Securing Process Control Networks - https://docplayer.net/9025143-Practical-steps-to-securing-process-control-networks.html
 17. FireEye - Excelerating Analysis – Tips and Tricks to Analyze Data with Microsoft Excel - https://www.fireeye.com/blog/threat-research/2019/12/tips-and-tricks-to-analyze-data-with-microsoft-excel.html
+18. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1579635728.pdf
